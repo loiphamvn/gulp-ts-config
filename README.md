@@ -69,4 +69,3 @@ Currently there are a few configurable options to control the output of your con
 This is copy from [Atticus White](https://github.com/ajwhite/gulp-ng-config) @robinpowered
 
 Thanks
-Le Duong
