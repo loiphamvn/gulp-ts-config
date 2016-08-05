@@ -4,7 +4,7 @@
 [![NPM version](http://img.shields.io/npm/v/gulp-ts-config.svg?style=flat)](https://npmjs.org/package/gulp-ts-config)
 [![NPM version](http://img.shields.io/npm/dm/gulp-ts-config.svg?style=flat)](https://npmjs.org/package/gulp-ts-config)
 [![Build Status](http://img.shields.io/travis/leduong/gulp-ts-config.svg?style=flat)](http://travis-ci.org/leduong/gulp-ts-config)
-[![Coverage Status](https://coveralls.io/repos/leduong/gulp-ts-config/badge.svg?branch=develop&service=github)](https://coveralls.io/github/leduong/gulp-ts-config?branch=develop)
+[![Coverage Status](https://coveralls.io/repos/leduong/gulp-ts-config/badge.svg?branch=master&service=github)](https://coveralls.io/github/leduong/gulp-ts-config?branch=master)
 [![Code Climate](https://codeclimate.com/github/leduong/gulp-ts-config/badges/gpa.svg)](https://codeclimate.com/github/leduong/gulp-ts-config)
 [![Dependency Status](http://img.shields.io/gemnasium/leduong/gulp-ts-config.svg?style=flat)](https://gemnasium.com/leduong/gulp-ts-config)
 
