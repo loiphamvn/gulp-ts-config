@@ -42,7 +42,7 @@ Assume that `appsettings.json` contains:
 Running `gulp test` will take `appsettings.json` and produce `appsettings.ts` with the following content:
 
 ```ts
-export class gulpTsConfig {
+export class AppSettings {
 
   public static get ApiEndpoint(): string {
     return "http://localhost:5000/api";
