@@ -1,6 +1,6 @@
 {
   "name": "gulp-ts-config",
-  "version": "1.0.0",
+  "version": "1.0.11",
   "description": "Typescript configuration generator",
   "main": "index.js",
   "scripts": {
